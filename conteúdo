@@ -1,0 +1,17 @@
+Frame Work
+https://tailwindcss.com/
+
+js
+
+console.log(document.getElementById("parafra").innerText):
+
+get pega -> pegar algo do elemento, a propriedade ID é o identificado único.
+
+Não preciso usar este recurso, posso usar o java scrit
+console.log(document.querySelector("p").innerText):
+console.log(document.querySelectorAll("p")): -- retorna um array
+console.log(document.querySelectorAll("p")[0].innerText): -- retorna um array
+console.log(document.querySelector("p")): --aqui ele traz a tag
+console.log(document.querySelector("p").style.displey="none"): --aqui ele traz a tag
+
+
