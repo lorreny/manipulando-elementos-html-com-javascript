@@ -17,4 +17,5 @@ console.log(document.querySelectorAll("p")[0].innerText): -- retorna um array
 console.log(document.querySelector("p")): --aqui ele traz a tag
 console.log(document.querySelector("p").style.displey="none"): --aqui ele traz a tag
 
-
+----------------
+https://www.w3schools.com/howto/howto_js_form_steps.asp
