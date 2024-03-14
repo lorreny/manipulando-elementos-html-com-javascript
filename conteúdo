@@ -1,21 +1,37 @@
-Pegar o conteúdo
-https://dontpad.com/jsdom
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Frame Work
-https://tailwindcss.com/
+Tema da aula: 
+	- DOM - Manipulando elementos HTML com JavaScript, criando páginas dinâmicas
+Data: 
+	- 10 de Março de 2024
 
-js
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-console.log(document.getElementById("parafra").innerText):
+Links para estudo:
+	Livro - você não sabe JS
+		- https://github.com/christyanbrayan/VoceNaoSabeJS
 
-get pega -> pegar algo do elemento, a propriedade ID é o identificado único.
+	Site com referência a linguagens de programação
+		- https://www.w3schools.com
+			- JS => https://www.w3schools.com/js/default.asp
 
-Não preciso usar este recurso, posso usar o java scrit
-console.log(document.querySelector("p").innerText):
-console.log(document.querySelectorAll("p")): -- retorna um array
-console.log(document.querySelectorAll("p")[0].innerText): -- retorna um array
-console.log(document.querySelector("p")): --aqui ele traz a tag
-console.log(document.querySelector("p").style.displey="none"): --aqui ele traz a tag
+	Ferramenta para testar JS online
+		- https://jsfiddle.net
+		- https://www.fronteditor.dev	
 
-----------------
-https://www.w3schools.com/howto/howto_js_form_steps.asp
+	Tailwind (CSS)
+		- https://tailwindcss.com/docs/installation
+
+	Arquivos do projeto (Link expira em 17 de março)
+		- https://we.tl/t-iuAvnHzemb
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Professor: Rayne Gomes
+	GitHub:
+		- https://github.com/raynegomes
+	Linkedin:
+		- https://www.linkedin.com/in/raynegomes
+
+
+"Mas buscai primeiro o Reino de Deus, e a sua justiça, e todas as demais coisas vos serão acrescentadas.", Mateus 6:33.  👑🙏
